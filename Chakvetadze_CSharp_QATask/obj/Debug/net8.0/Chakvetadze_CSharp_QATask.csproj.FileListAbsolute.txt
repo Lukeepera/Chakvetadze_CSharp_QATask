@@ -1,0 +1,15 @@
+C:\Users\lukee\source\repos\Chakvetadze_CSharp_QATask\Chakvetadze_CSharp_QATask\bin\Debug\net8.0\Chakvetadze_CSharp_QATask.exe
+C:\Users\lukee\source\repos\Chakvetadze_CSharp_QATask\Chakvetadze_CSharp_QATask\bin\Debug\net8.0\Chakvetadze_CSharp_QATask.deps.json
+C:\Users\lukee\source\repos\Chakvetadze_CSharp_QATask\Chakvetadze_CSharp_QATask\bin\Debug\net8.0\Chakvetadze_CSharp_QATask.runtimeconfig.json
+C:\Users\lukee\source\repos\Chakvetadze_CSharp_QATask\Chakvetadze_CSharp_QATask\bin\Debug\net8.0\Chakvetadze_CSharp_QATask.dll
+C:\Users\lukee\source\repos\Chakvetadze_CSharp_QATask\Chakvetadze_CSharp_QATask\bin\Debug\net8.0\Chakvetadze_CSharp_QATask.pdb
+C:\Users\lukee\source\repos\Chakvetadze_CSharp_QATask\Chakvetadze_CSharp_QATask\obj\Debug\net8.0\Chakvetadze_CSharp_QATask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukee\source\repos\Chakvetadze_CSharp_QATask\Chakvetadze_CSharp_QATask\obj\Debug\net8.0\Chakvetadze_CSharp_QATask.AssemblyInfoInputs.cache
+C:\Users\lukee\source\repos\Chakvetadze_CSharp_QATask\Chakvetadze_CSharp_QATask\obj\Debug\net8.0\Chakvetadze_CSharp_QATask.AssemblyInfo.cs
+C:\Users\lukee\source\repos\Chakvetadze_CSharp_QATask\Chakvetadze_CSharp_QATask\obj\Debug\net8.0\Chakvetadze_CSharp_QATask.csproj.CoreCompileInputs.cache
+C:\Users\lukee\source\repos\Chakvetadze_CSharp_QATask\Chakvetadze_CSharp_QATask\obj\Debug\net8.0\Chakvetadze_CSharp_QATask.dll
+C:\Users\lukee\source\repos\Chakvetadze_CSharp_QATask\Chakvetadze_CSharp_QATask\obj\Debug\net8.0\refint\Chakvetadze_CSharp_QATask.dll
+C:\Users\lukee\source\repos\Chakvetadze_CSharp_QATask\Chakvetadze_CSharp_QATask\obj\Debug\net8.0\Chakvetadze_CSharp_QATask.pdb
+C:\Users\lukee\source\repos\Chakvetadze_CSharp_QATask\Chakvetadze_CSharp_QATask\obj\Debug\net8.0\Chakvetadze_CSharp_QATask.genruntimeconfig.cache
+C:\Users\lukee\source\repos\Chakvetadze_CSharp_QATask\Chakvetadze_CSharp_QATask\obj\Debug\net8.0\ref\Chakvetadze_CSharp_QATask.dll
+C:\Users\lukee\source\repos\Chakvetadze_CSharp_QATask\Chakvetadze_CSharp_QATask\obj\Debug\net8.0\Chakvetadze_CSharp_QATask.sourcelink.json
