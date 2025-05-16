@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chakvetadze_CSharp_QATask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+497bba4308aea8813695244f27b3a9abce37ab66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b6a1828a72c839a7e363aa941fc71f1bb7ab61a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chakvetadze_CSharp_QATask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chakvetadze_CSharp_QATask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

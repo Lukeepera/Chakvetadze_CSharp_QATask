@@ -122,3 +122,36 @@ public class Program
         }
     }
 }
+
+
+/*
+ * 2nd Task:
+ *  
+ * Given bracket sequence: [((())()(())]]
+ *  
+ * Can this sequence be considered correct? 
+ *  
+ * - No, for a bracket sequence to be considered correct,
+ *   every opening bracket has to have a corresponding 
+ *   closing bracket of the same type, and they must be properly nested.
+ * 
+ * If the answer to the previous question is “no,” then what needs to be changed to make it correct? 
+ * 
+ * - There are many ways to make it correct:
+ * 
+ *   1st option --> Replace the first opening parenthesis "(" on the left with the bracket "[". That way, 
+ *   we have matching pairs of brackets on both sides, and correctly nested sets of parentheses inside.
+ *   [[(())()(())]]
+ *   
+ *   2nd option --> Remove the first parenthesis "(" on the left along with the first or second bracket "]" from the right.
+ *   That way, the first opening bracket from the left has the symmetrical one on the right side, and there are correctly
+ *   nested sets of parentheses inside.
+ *   [(())()(())]
+ *    
+ *   Alternatively, we could remove or replace parentheses and brackets from both sides, such as removing 
+ *   the first two and last two characters in the sequence (which would leave us with a perfectly correct sequence), but
+ *   the point is this: Every opening bracket or parenthesis has to have its pair — a matching closing bracket on the corresponding side.
+ *   (())()(())
+ * 
+ */
+
